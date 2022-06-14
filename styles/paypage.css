@@ -441,6 +441,7 @@ body footer .copyright p {
     line-height: 46px;
   }
   body main .program .price {
+    overflow: inherit;
     margin-top: 48px;
     margin-bottom: 48px;
   }

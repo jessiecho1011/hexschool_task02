@@ -367,6 +367,7 @@ body {
           line-height: 46px;
         }
         .price {
+          overflow: inherit;
           margin-top: 48px;
           margin-bottom: 48px;
           .btn {
