@@ -459,6 +459,9 @@ body main .evaluation .small {
 }
 
 body footer {
+  position: -webkit-sticky;
+  position: sticky;
+  z-index: 2;
   background-image: url(../images/footer_sm.svg);
   height: 461px;
   margin-top: 60px;
